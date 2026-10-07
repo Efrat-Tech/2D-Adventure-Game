@@ -8,6 +8,9 @@ The project is a tile-based 2D adventure game featuring a controllable player, a
 
 ![Gameplay Screenshot](gameplay.png)
 
+### Gameplay
+The player explores the game world, interacts with NPCs, and navigates through different areas while avoiding obstacles and collecting items.
+
 The game uses a custom game loop to continuously update the game state and render the game world.
 
 ## Features
@@ -15,12 +18,11 @@ The game uses a custom game loop to continuously update the game state and rende
 - Real-time game loop with continuous updates and rendering
 - Player movement and sprite animation
 - Tile-based game world with maps loaded from external files
-- Collision detection with the environment and other entities
-- NPC behavior with randomized movement
-- Object-oriented entity and object structure
+- Collision detection with the environment and game objects
+- Object-oriented structure for interactive game objects such as keys, doors, and chests
+- NPC with randomized movement behavior
 - Pause and resume game state
 - Background music and sound effects
-- External resource management for sprites, maps, and audio
 
 ## Technologies
 
