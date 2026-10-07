@@ -9,7 +9,7 @@ The project is a tile-based 2D adventure game featuring a controllable player, a
 ![Gameplay Screenshot](gameplay.png)
 
 ### Gameplay
-The player explores the game world, interacts with NPCs, and navigates through different areas while avoiding obstacles and collecting items.
+The player explores the game world, interacts with NPCs, and navigates through different areas while avoiding obstacles.
 
 The game uses a custom game loop to continuously update the game state and render the game world.
 
@@ -19,7 +19,7 @@ The game uses a custom game loop to continuously update the game state and rende
 - Player movement and sprite animation
 - Tile-based game world with maps loaded from external files
 - Collision detection with the environment and game objects
-- Object-oriented structure for interactive game objects such as keys, doors, and chests
+- Object-oriented structure for game objects such as keys, doors, and chests
 - NPC with randomized movement behavior
 - Pause and resume game state
 - Background music and sound effects
@@ -65,6 +65,6 @@ Implemented background music and sound effects using Java's audio capabilities.
 
 ## Learning Context
 
-This project was developed as a hands-on learning project while studying Java 2D game development concepts. The implementation was based on concepts demonstrated in the RyiSnow Java 2D Game Development tutorial series, with the code written and adapted as part of the learning process.
+This project was developed as a hands-on learning project while studying Java 2D game development. It was built while following concepts from the RyiSnow Java 2D Game Development tutorial series, with the code written and implemented as part of the learning process.
 
-The project helped me gain practical experience with Java, Object-Oriented Programming, game loops, collision detection, inheritance, resource management, and basic game architecture.
+The project provided practical experience with Java, Object-Oriented Programming, game loops, collision detection, inheritance, resource management, and basic game architecture.
