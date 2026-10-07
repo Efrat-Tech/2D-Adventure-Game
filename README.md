@@ -6,7 +6,7 @@ A Java-based 2D adventure game developed as a personal learning project to pract
 
 The project is a tile-based 2D adventure game featuring a controllable player, animated sprites, NPC behavior, collision detection, background music, sound effects, and a pause system.
 
-<img src="gameplay.png" alt="Gameplay Screenshot" width="700">
+<img src="gameplay.png" alt="Gameplay Screenshot" width="600">
 
 ### Gameplay
 The player explores the game world, interacts with NPCs, and navigates through different areas while avoiding obstacles.
